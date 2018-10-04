@@ -7,7 +7,7 @@
 - 各檔案說明：
 	- main.cpp : C++ source code 主程式
 	- pa2  : main.cpp compile 後的 Unix executable binary code執行檔
-	- readme.md : 本說明文字檔
+	- Readme.md : 本說明文字檔
 	- .in/.out : 測資input及output檔
 
 - 編譯方式說明：        	
