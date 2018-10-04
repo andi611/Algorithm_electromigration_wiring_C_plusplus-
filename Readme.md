@@ -1,4 +1,4 @@
-# Algorithm: Electromigration Wiring
+# Algorithm: Flow Network
 **The Wiring Topology for Electromigration Avoidance Problem: Optimal Wiring Topology, Implementation in C++**
 
 ## Description
